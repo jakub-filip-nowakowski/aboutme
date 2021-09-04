@@ -1,0 +1,277 @@
+/* ========================================================
+ This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em.
+ ========================================================
+*/
+
+body
+{
+	margin: 0;
+	background-image: url("img/dark-honeycomb.png");
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#topnav 
+{
+	background-color:#1c74b2;
+	text-align: center;
+}
+
+.menu
+{
+		list-style-type: none;
+		margin: 0px;
+		padding: 10px;
+		font-size: 18px;
+		min-height: 38px;
+		line-height: 200%;
+}
+
+.menu > li 
+{
+		display: inline-block;
+		padding-left: 20px;
+		padding-right: 20px;
+		border-right: 1px dashed #0a2b42;
+}
+
+.menu > li:first-child
+{
+	border-left: 1px dashed #0a2b42;
+}
+
+.menu a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover
+{
+	color: #0a2b42;
+	
+}
+
+h1
+{
+		font-size: 44px;
+		font-weight: 400;
+		color: #39a5f1;
+		margin-bottom: 15px;
+		margin-top: 30px;
+		text-align: center;
+}
+
+figure
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+		
+}
+
+figcaption
+{
+		margin-top: 8px;
+		padding:0px;
+		font-size:14px;
+		
+}
+
+h2
+{
+		font-size: 20px;
+		font-weight: 400;
+		color: #39a5f1;
+}
+
+
+
+.bluebutton
+{
+		background-color: #1c74b2;
+		padding: 15px;
+		color: #efefef;
+		font-size: 19px;
+		text-decoration: none;
+		border-radius: 5px;
+		min width: 300px;
+}
+
+.bluebutton:hover
+{
+		background-color: #196499;
+}
+
+.socials
+{
+	width:400px;
+	text-align: center;
+	background-color: #191d21;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:10px;
+}
+
+.socialdivs
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.li
+{
+	width: 25%;
+	height: 50px;
+	float:left;
+	border-radius:10px;
+}
+
+.li:hover
+{
+	background-color: #0e76a8;
+}
+
+.gh
+{
+	width:25%;
+	height:50px;
+	float:left;
+	border-radius:10px;
+}
+
+.gh:hover
+{
+	background-color: #95a5a6;
+}
+
+.fb
+{
+	width: 25%;
+	height:50px;
+	float:left;
+	border-radius:10px;
+}
+
+.fb:hover
+{
+	background-color: #3b5998;
+}
+
+.ig
+{
+	width:25%;
+	height:50px;
+	float:left;
+	border-radius:10px;
+}
+
+.ig:hover
+{
+	background-color: #DD2A7B;
+}
+
+.container
+{
+	margin-left:auto;
+	margin-right:auto;
+	width: 1000px;
+	
+}
+
+.west
+{
+	float: left;
+	width: 750px;
+	padding: 20px;
+	text-align: justify;
+}
+
+.east
+{
+	float:left;
+	width: 170px;
+	padding: 20px;
+}
+
+.west h1
+{
+	font-size: 32px;
+	font-weight: 400;
+	color: #39a5f1;
+	margin-bottom: 20px;
+}
+
+.east ul 
+{
+	padding-left: 20px;
+}
+
+.east ul > li
+{
+	margin-bottom: 5px;
+}
+
+.east img
+{
+	margin-top: 15px;
+}
+/* ===================================================*/
+.logo
+{
+	width:125px;
+	display:block;
+	float:left;	
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+.icon-gallery
+{
+	height:200px;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+}
+
+.logopic
+{
+	height:60px;
+	margin-bottom:auto;
+	margin-left:auto;
+	
+	
+}
+
+.photo1
+{
+	float:left;
+	margin-right:30px;
+	margin-left:50px;
+}
+
+.omnie
+{
+	
+}
+.omnietxt 
+{
+	text-align:justyfy;
+	margin-right:50px;
+	
+}
+
+.info
+{
+	text-align:center;
+	margin-top:10px;
+}
+
