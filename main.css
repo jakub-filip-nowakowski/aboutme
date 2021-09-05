@@ -20,6 +20,11 @@ body
 {
 	background-color:#1c74b2;
 	text-align: center;
+	border-radius: 5px;
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+	
 }
 
 .menu
@@ -54,12 +59,21 @@ body
 .menu a:hover
 {
 	color: #0a2b42;
-	
 }
 
 h1
 {
-		font-size: 44px;
+		font-size: 50px;
+		font-weight: 400;
+		color: #39a5f1;
+		margin-bottom: 20px;
+		margin-top: 20px;
+		text-align: center;
+}
+
+h2
+{
+		font-size: 28px;
 		font-weight: 400;
 		color: #39a5f1;
 		margin-bottom: 15px;
@@ -80,17 +94,7 @@ figcaption
 		margin-top: 8px;
 		padding:0px;
 		font-size:14px;
-		
 }
-
-h2
-{
-		font-size: 20px;
-		font-weight: 400;
-		color: #39a5f1;
-}
-
-
 
 .bluebutton
 {
@@ -240,6 +244,7 @@ h2
 	margin-left:auto;
 	margin-right:auto;
 	width:1000px;
+	margin-top: -20px;
 }
 
 .logopic
@@ -247,8 +252,6 @@ h2
 	height:60px;
 	margin-bottom:auto;
 	margin-left:auto;
-	
-	
 }
 
 .photo1
@@ -266,12 +269,33 @@ h2
 {
 	text-align:justyfy;
 	margin-right:50px;
-	
 }
 
 .info
 {
+	font-size: 12px;
 	text-align:center;
-	margin-top:10px;
+	margin-top:30px;
+}
+
+#pt
+{
+	margin-top:60px;
+}
+
+#email
+{
+	font-size:16px;
+	text-align:center;
+}
+
+a:link
+{
+	color:white;
+}
+
+a:visited
+{
+	color:white;
 }
 
