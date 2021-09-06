@@ -300,3 +300,24 @@ a:visited
 	color:white;
 }
 
+.zainteresowaniatxt
+{
+	text-align:justify;
+}
+
+#postcard1
+{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#tatry1
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	
+}
+
+
